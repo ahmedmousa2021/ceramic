@@ -1,5 +1,5 @@
 # ceramic
-gad built the ceramic app as a Free app. This SERVICE is provided by Abdullah Alsalamah at no cost and is intended for use as is.
+gad built the ceramic app as a Free app. This SERVICE is provided by gad elmasry at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
